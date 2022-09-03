@@ -6,7 +6,7 @@ Web server for TradeUs, a trading platform targetting university students. This 
 NestJS (NodeJS) for server. MySQL and Redis as database. ElasticSearch for search function.
 
 ## ERD
-<img width="839" alt="스크린샷 2022-09-02 오후 10 26 05" src="https://user-images.githubusercontent.com/90667275/188252335-055935ab-aa2b-49d9-b05a-fb878af3ea20.png">
+<img width="975" alt="스크린샷 2022-09-02 오후 10 26 05" src="https://user-images.githubusercontent.com/90667275/188252335-055935ab-aa2b-49d9-b05a-fb878af3ea20.png">
 
 
 ## Search Pipeline
